@@ -50,11 +50,11 @@ This project analyzes movie descriptions and genres to suggest similar movies us
 
 ### 🎯 Similar Movies for Input
 
-![Similarity Graph](images/similarity_scores.png)
+![Similarity Graph](similarity_scores.png)
 
 ---
 
 ### 📊 Top Words (NLP Insight)
 
-![Top Words](images/top_words.png)
+![Top Words](top_words.png)
 
