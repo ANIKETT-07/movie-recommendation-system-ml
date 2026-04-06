@@ -1,2 +1,60 @@
-# movie-recommendation-system
-A content-based movie recommendation system built using Machine Learning and NLP techniques.   It suggests similar movies based on user input using text similarity.
+# 🎬 Movie Recommendation System (ML + NLP)
+
+A content-based movie recommendation system built using Machine Learning and Natural Language Processing (NLP).  
+It recommends similar movies based on metadata such as overview and genres.
+
+---
+
+## 🚀 Project Overview
+
+This project analyzes movie descriptions and genres to suggest similar movies using text similarity techniques.
+
+---
+
+## 🧠 Techniques Used
+
+- Natural Language Processing (NLP)
+- CountVectorizer
+- Cosine Similarity
+- Feature Engineering
+
+---
+
+## 📊 Features
+
+- Recommend similar movies based on user input
+- Uses movie overview + genres
+- Displays top 5 recommendations
+- Visualizes similarity scores
+- Shows most important words in dataset
+
+---
+
+## 📂 Dataset
+
+- TMDB 5000 Movies Dataset (Kaggle)
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+
+---
+
+## 📸 Results
+
+### 🎯 Similar Movies for Input
+
+![Similarity Graph](images/similarity_scores.png)
+
+---
+
+### 📊 Top Words (NLP Insight)
+
+![Top Words](images/top_words.png)
+
