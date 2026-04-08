@@ -77,4 +77,4 @@ An interactive web application built using Streamlit that allows users to enter 
 
 ## 🌐 Streamlit App (Live UI)
 
-![Streamlit App](streamlit_app.png)
+![Streamlit App](Streamlit_app.png)
