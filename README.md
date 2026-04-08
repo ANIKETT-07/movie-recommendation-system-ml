@@ -73,3 +73,8 @@ An interactive web application built using Streamlit that allows users to enter 
 
 ### ▶️ Run Locally
 
+---
+
+## 🌐 Streamlit App (Live UI)
+
+![Streamlit App](streamlit_app.png)
