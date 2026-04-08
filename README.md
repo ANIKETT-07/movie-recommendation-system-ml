@@ -58,3 +58,18 @@ This project analyzes movie descriptions and genres to suggest similar movies us
 
 ![Top Words](top_words.png)
 
+
+---
+
+## 🌐 Streamlit App
+
+An interactive web application built using Streamlit that allows users to enter a movie name and get instant recommendations.
+
+### 🚀 Features
+
+- User-friendly interface
+- Real-time movie recommendations
+- Powered by NLP-based similarity model
+
+### ▶️ Run Locally
+
